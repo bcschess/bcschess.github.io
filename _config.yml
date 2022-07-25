@@ -21,9 +21,7 @@
 title: BCS Chess
 email: bcschessclub@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  The Bryan College Station Chess Club meets every Tuesday from 6:30-8:30PM at Sue Haswell Park in Bryan.
-  We also host First Friday Chess outside of the Subway in Downtown Bryan.
-  BCS Chess is open to all skill levels and is currently free of charge.
+  Community-driven chess in the Bryan-College Station area.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://bcschess.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
