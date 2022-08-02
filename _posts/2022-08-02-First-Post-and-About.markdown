@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title:  "Welcome to BCS Chess!"
 date:   2022-08-02
 categories: about test
